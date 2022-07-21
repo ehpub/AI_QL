@@ -10,3 +10,6 @@ https://gist.github.com/ehpub/63f124ec821da9c844391d6b74e06d7b#file-ai-_ql-02-ip
 
 7월 20일 파이썬 문법 - 반복문 while, 사전, 리스트 컴프리헨션, enumerate, reversed
 https://gist.github.com/ehpub/750744d56e92e989b6d3cec3a893715b#file-ai-_ql-03-ipynb
+
+7월 21일 파이썬 문법 - 함수, 예외 처리
+https://gist.github.com/ehpub/d63be144ea64f1971859dc04e0043034#file-ai-_ql-04-ipynb
