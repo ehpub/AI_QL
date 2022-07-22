@@ -13,3 +13,6 @@ https://gist.github.com/ehpub/750744d56e92e989b6d3cec3a893715b#file-ai-_ql-03-ip
 
 7월 21일 파이썬 문법 - 함수, 예외 처리
 https://gist.github.com/ehpub/d63be144ea64f1971859dc04e0043034#file-ai-_ql-04-ipynb
+
+7월 22일 파이썬 문법 - 예외처리, 모듈, 클래스
+https://gist.github.com/ehpub/81d10ab7c1986fc4c7c0bcd6ef2950c7#file-ai-_ql-05-ipynb
