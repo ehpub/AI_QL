@@ -16,3 +16,6 @@ https://gist.github.com/ehpub/d63be144ea64f1971859dc04e0043034#file-ai-_ql-04-ip
 
 7월 22일 파이썬 문법 - 예외처리, 모듈, 클래스
 https://gist.github.com/ehpub/81d10ab7c1986fc4c7c0bcd6ef2950c7#file-ai-_ql-05-ipynb
+
+7월 25일 파이썬 문법 - Overview
+https://gist.github.com/ehpub/283b18dd25b917bfea909cdf41becfec#file-ai-_ql-overview-ipynb
