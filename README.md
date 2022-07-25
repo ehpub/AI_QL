@@ -19,3 +19,6 @@ https://gist.github.com/ehpub/81d10ab7c1986fc4c7c0bcd6ef2950c7#file-ai-_ql-05-ip
 
 7월 25일 파이썬 문법 - Overview
 https://gist.github.com/ehpub/283b18dd25b917bfea909cdf41becfec#file-ai-_ql-overview-ipynb
+
+7월 25일 라이브러리 활용 - Numpy
+https://gist.github.com/ehpub/b37194ca148dcd542e5e0c6df297a7c8#file-ai-_ql-numpy-ipynb
