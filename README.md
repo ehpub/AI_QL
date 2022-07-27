@@ -25,3 +25,6 @@ https://gist.github.com/ehpub/b37194ca148dcd542e5e0c6df297a7c8#file-ai-_ql-numpy
 
 7월 26일 라이브러리 활용 - Pandas
 https://gist.github.com/ehpub/ef1194115204729a78e6c364406e9505#file-ai-_ql-pandas-ipynb
+
+7월 27일 라이브러리 활용 - matplotlib
+https://gist.github.com/ehpub/3ba66b6790ddcb66550cd894fd5364f8#file-ai-_ql-matplotlib-ipynb
