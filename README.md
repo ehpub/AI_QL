@@ -28,3 +28,6 @@ https://gist.github.com/ehpub/ef1194115204729a78e6c364406e9505#file-ai-_ql-panda
 
 7월 27일 라이브러리 활용 - matplotlib
 https://gist.github.com/ehpub/3ba66b6790ddcb66550cd894fd5364f8#file-ai-_ql-matplotlib-ipynb
+
+8월 1일 통계확률 및 ML 알고리즘 - 통계확률
+https://gist.github.com/ehpub/38040c8494334bb6c21d979f06791a0f#file-ai-_ql-ml-1-ipynb
