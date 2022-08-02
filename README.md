@@ -31,3 +31,7 @@ https://gist.github.com/ehpub/3ba66b6790ddcb66550cd894fd5364f8#file-ai-_ql-matpl
 
 8월 1일 통계확률 및 ML 알고리즘 - 통계확률
 https://gist.github.com/ehpub/38040c8494334bb6c21d979f06791a0f#file-ai-_ql-ml-1-ipynb
+
+8월 2일 통계확률 및 ML 알고리즘 - 경사하강법
+https://gist.github.com/ehpub/624a4705d25f3e35877c7e0e285eb15c#file-ai-_ql-ml-2-ipynb
+
