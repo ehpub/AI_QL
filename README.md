@@ -35,3 +35,5 @@ https://gist.github.com/ehpub/38040c8494334bb6c21d979f06791a0f#file-ai-_ql-ml-1-
 8월 2일 통계확률 및 ML 알고리즘 - 경사하강법
 https://gist.github.com/ehpub/624a4705d25f3e35877c7e0e285eb15c#file-ai-_ql-ml-2-ipynb
 
+8월 3일 통계확률 및 ML 알고리즘 - KNN 회귀 , KNN 분류, 스케일 조절
+https://gist.github.com/ehpub/02f0a3fbb33c142d75571b629d260858#file-ai-_ql-ml-3-ipynb
