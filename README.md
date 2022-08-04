@@ -37,3 +37,8 @@ https://gist.github.com/ehpub/624a4705d25f3e35877c7e0e285eb15c#file-ai-_ql-ml-2-
 
 8월 3일 통계확률 및 ML 알고리즘 - KNN 회귀 , KNN 분류, 스케일 조절
 https://gist.github.com/ehpub/02f0a3fbb33c142d75571b629d260858#file-ai-_ql-ml-3-ipynb
+
+8월 4일 통계확률 및 ML 알고리즘 - KMeans 군집화, 로지스틱 회귀, Softmax 함수, TF-IDF(Text Mining)
+https://gist.github.com/ehpub/2375c81850ce1e5dd5d09174eedd83ae#file-ai-_ql-ml-4-ipynb
+
+
