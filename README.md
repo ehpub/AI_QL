@@ -41,4 +41,7 @@ https://gist.github.com/ehpub/02f0a3fbb33c142d75571b629d260858#file-ai-_ql-ml-3-
 8월 4일 통계확률 및 ML 알고리즘 - KMeans 군집화, 로지스틱 회귀, Softmax 함수, TF-IDF(Text Mining)
 https://gist.github.com/ehpub/2375c81850ce1e5dd5d09174eedd83ae#file-ai-_ql-ml-4-ipynb
 
+8월 5일 통계확률 및 ML 알고리즘 - 퍼셉트론, Convolution 연산, Open API 활용
+https://gist.github.com/ehpub/7e9edaa7932196e3d053a28cc3441813#file-ai-_ql-ml-5-ipynb
+
 
