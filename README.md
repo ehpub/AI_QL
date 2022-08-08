@@ -44,4 +44,8 @@ https://gist.github.com/ehpub/2375c81850ce1e5dd5d09174eedd83ae#file-ai-_ql-ml-4-
 8월 5일 통계확률 및 ML 알고리즘 - 퍼셉트론, Convolution 연산, Open API 활용
 https://gist.github.com/ehpub/7e9edaa7932196e3d053a28cc3441813#file-ai-_ql-ml-5-ipynb
 
+8월 8일 영상처리 개요 - 이미지로딩, 이미지연산, 색공간변형, 이진화
+https://gist.github.com/ehpub/2f5ff78769fb25fde1cac323802f963e#file-ai-_ql-1-ipynb
+
+
 
