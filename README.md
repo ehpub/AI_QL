@@ -49,6 +49,8 @@ https://gist.github.com/ehpub/2f5ff78769fb25fde1cac323802f963e#file-ai-_ql-1-ipy
 
 8월 9일 영상처리 개요 - 이미지 변환 및 효과, 손글씨 영역 검출
 https://gist.github.com/ehpub/299f7bfe791480179a8d1e9ced1e8fb6#file-ai-_ql-2-ipynb
+8월 9일 머신러닝 딥러닝 - Preview
+https://gist.github.com/ehpub/3c33fea8d5b5a943f6bd5c0b621267e7#file-ai-_ql-preview-ipynb
 
 
 
