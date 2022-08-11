@@ -55,6 +55,7 @@ https://gist.github.com/ehpub/3c33fea8d5b5a943f6bd5c0b621267e7#file-ai-_ql-previ
 8월 10일 머신러닝 딥러닝 - KNN 분류, Scale 조절
 https://gist.github.com/ehpub/67bb7bc58ab4135cd39ba29de9c38718#file-ai-_ql-1-ipynb
 
-
+8월 11일 머신러닝 딥러닝 - 선형회귀, 특성 공학, L2 규제
+https://gist.github.com/ehpub/1283e9b351539589302f5259125d678b#file-ai-_ql-2-ipynb
 
 
