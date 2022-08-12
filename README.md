@@ -58,4 +58,6 @@ https://gist.github.com/ehpub/67bb7bc58ab4135cd39ba29de9c38718#file-ai-_ql-1-ipy
 8월 11일 머신러닝 딥러닝 - 선형회귀, 특성 공학, L2 규제
 https://gist.github.com/ehpub/1283e9b351539589302f5259125d678b#file-ai-_ql-2-ipynb
 
+8월 12일 머신러닝 딥러닝 - 다중 분류, 로지스틱 회귀, 확률적 경사하강법
+https://gist.github.com/ehpub/b9fffbfaccc6ed13fbe1b16231ab4500#file-ai-_ql-3-ipynb
 
