@@ -61,3 +61,7 @@ https://gist.github.com/ehpub/1283e9b351539589302f5259125d678b#file-ai-_ql-2-ipy
 8월 12일 머신러닝 딥러닝 - 다중 분류, 로지스틱 회귀, 확률적 경사하강법
 https://gist.github.com/ehpub/b9fffbfaccc6ed13fbe1b16231ab4500#file-ai-_ql-3-ipynb
 
+8월 16일 머신러닝 딥러닝 - 결정트리, 그리디 서치
+https://gist.github.com/ehpub/bd6eba75094acea6357e155b2d5812f3#file-ai-_ql-4-ipynb
+
+
