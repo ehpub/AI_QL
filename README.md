@@ -64,4 +64,8 @@ https://gist.github.com/ehpub/b9fffbfaccc6ed13fbe1b16231ab4500#file-ai-_ql-3-ipy
 8월 16일 머신러닝 딥러닝 - 결정트리, 그리디 서치
 https://gist.github.com/ehpub/bd6eba75094acea6357e155b2d5812f3#file-ai-_ql-4-ipynb
 
+8월 17일 머신러닝 딥러닝 - 비지도학습, KMeans
+https://gist.github.com/ehpub/be438782811d80ac1e94a9e71913d7af#file-ai-_ql-5-ipynb
+
+
 
