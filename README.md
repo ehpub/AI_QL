@@ -67,5 +67,9 @@ https://gist.github.com/ehpub/bd6eba75094acea6357e155b2d5812f3#file-ai-_ql-4-ipy
 8월 17일 머신러닝 딥러닝 - 비지도학습, KMeans
 https://gist.github.com/ehpub/be438782811d80ac1e94a9e71913d7af#file-ai-_ql-5-ipynb
 
+8월 18일 머신러닝 딥러닝 - 주성분 분석, 딥러닝 개요(인공신경망)
+https://gist.github.com/ehpub/f98f9f6185e3dfb147109db730bd8730#file-ai-_ql-6-ipynb
+
+
 
 
