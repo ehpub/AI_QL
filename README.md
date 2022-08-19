@@ -70,6 +70,7 @@ https://gist.github.com/ehpub/be438782811d80ac1e94a9e71913d7af#file-ai-_ql-5-ipy
 8월 18일 머신러닝 딥러닝 - 주성분 분석, 딥러닝 개요(인공신경망)
 https://gist.github.com/ehpub/f98f9f6185e3dfb147109db730bd8730#file-ai-_ql-6-ipynb
 
-
+8월 19일 머신러닝 딥러닝 - DNN, Dropout, 모델 저장, Early Stop
+https://gist.github.com/ehpub/b9d12995daddc0ac2580aefc6dcb2955#file-ai-_ql-7-ipynb
 
 
