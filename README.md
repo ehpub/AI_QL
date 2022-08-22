@@ -73,4 +73,5 @@ https://gist.github.com/ehpub/f98f9f6185e3dfb147109db730bd8730#file-ai-_ql-6-ipy
 8월 19일 머신러닝 딥러닝 - DNN, Dropout, 모델 저장, Early Stop
 https://gist.github.com/ehpub/b9d12995daddc0ac2580aefc6dcb2955#file-ai-_ql-7-ipynb
 
-
+8월 22일 머신러닝 딥러닝 - CNN
+https://gist.github.com/ehpub/ab2629bca09320e92f6df2e7b54c24ec#file-ai-_ql-8-ipynb
