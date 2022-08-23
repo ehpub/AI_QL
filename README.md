@@ -75,3 +75,6 @@ https://gist.github.com/ehpub/b9d12995daddc0ac2580aefc6dcb2955#file-ai-_ql-7-ipy
 
 8월 22일 머신러닝 딥러닝 - CNN
 https://gist.github.com/ehpub/ab2629bca09320e92f6df2e7b54c24ec#file-ai-_ql-8-ipynb
+
+8월 23일 머신러닝 딥러닝 - RNN, LSTM
+https://gist.github.com/ehpub/e356905233b593e8aecd15ce5707aa2d#file-ai-_ql-9-ipynb
