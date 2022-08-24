@@ -78,3 +78,6 @@ https://gist.github.com/ehpub/ab2629bca09320e92f6df2e7b54c24ec#file-ai-_ql-8-ipy
 
 8월 23일 머신러닝 딥러닝 - RNN, LSTM
 https://gist.github.com/ehpub/e356905233b593e8aecd15ce5707aa2d#file-ai-_ql-9-ipynb
+
+8월 24일 머신러닝 딥러닝 - LSTM (시계열 데이터 만들기, 국제선승객수요 예측, 주가 예측)
+https://gist.github.com/ehpub/f542775e7a9518399d8b9a90a4484394#file-ai-_ql-10-ipynb
