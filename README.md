@@ -81,3 +81,6 @@ https://gist.github.com/ehpub/e356905233b593e8aecd15ce5707aa2d#file-ai-_ql-9-ipy
 
 8월 24일 머신러닝 딥러닝 - LSTM (시계열 데이터 만들기, 국제선승객수요 예측, 주가 예측)
 https://gist.github.com/ehpub/f542775e7a9518399d8b9a90a4484394#file-ai-_ql-10-ipynb
+
+8월 25일 GAN 기초 - 분류기 클래스 만들기
+https://gist.github.com/ehpub/e0bc06bb65bd26b6204cbe62a4962df3#file-ai-_ql-gan-1-ipynb
