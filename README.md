@@ -84,3 +84,6 @@ https://gist.github.com/ehpub/f542775e7a9518399d8b9a90a4484394#file-ai-_ql-10-ip
 
 8월 25일 GAN 기초 - 분류기 클래스 만들기
 https://gist.github.com/ehpub/e0bc06bb65bd26b6204cbe62a4962df3#file-ai-_ql-gan-1-ipynb
+
+8월 26일 GAN 기초 - GAN 이론 및 실습
+https://gist.github.com/ehpub/675f6e39f2b458bbfc3e9509f77b89ed#file-ai-_ql-gan-2-ipynb
